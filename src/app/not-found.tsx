@@ -10,13 +10,13 @@ export default function NotFound() {
           404
         </p>
         <h1 className="mt-2 text-2xl font-bold text-zinc-900 dark:text-white">
-          Page not found
+          Sahifa topilmadi
         </h1>
         <p className="mt-2 text-base text-zinc-600 dark:text-zinc-400">
-          Sorry, we couldn’t find the page you’re looking for.
+          Kechirasiz, biz siz izlayotgan sahifani topa olmadik.
         </p>
         <Button href="/" arrow="right" className="mt-8">
-          Back to docs
+          Ortga qaytish
         </Button>
       </div>
     </>
